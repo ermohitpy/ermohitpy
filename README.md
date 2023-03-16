@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Mohit
+- 👋 Hi, Myself Er. Mohit
 - 👀 I’m interested in coding , learn new technologies , reading novels
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently worked as React Native Developer
+- JS,HTML,CSS,PYTHON,,REDUX,REACT NATIVE,C,SQL,POSTGRES,TypeScript
 - 📫 How to reach me - ermohit2k18@gmail.com
 
 <!---
