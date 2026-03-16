@@ -64,7 +64,3 @@ https://www.linkedin.com/in/mohit-kumar-55a34714b
 ---
 
 ⭐ Always building. Always learning.
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00C2FF&height=120&section=footer"/>
-</p>
