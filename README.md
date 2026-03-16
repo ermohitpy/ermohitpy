@@ -1,10 +1,33 @@
-- 👋 Hi, Myself Mohit
-- 👀 I’m interested in coding , learn new technologies , reading novels
-- 🌱 I’m currently worked as React Native Developer
-- JS,TypeScript,Hybrid Mobile Apps,React Native,ReactJs,HTML,CSS,SDK,Rest Api's,GraphQl,Third party integrations
-- 📫 How to reach me - ermohit2k18@gmail.com
+<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 
-<!---
-ermohitpy/ermohitpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=React+Native+Developer;Hybrid+Mobile+App+Developer;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```javascript
+const mohit = {
+  role: "React Native Developer",
+  experience: "3+ years",
+  location: "Gurgaon, India",
+
+  techStack: [
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "Redux Toolkit",
+    "GraphQL",
+    "REST APIs"
+  ],
+
+  currentlyBuilding: "Scalable mobile apps",
+
+  hobbies: ["Driving 🚗", "Gaming 🎮", "Reading Novels 📚"],
+
+  whenCoding: () => "DND 🚫"
+};
+
+export default mohit;
