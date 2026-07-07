@@ -19,7 +19,7 @@
 ```javascript
 const mohit = {
   role: "React Native Developer",
-  experience: "3+ Years",
+  experience: "4+ Years",
   location: "Gurgaon, India",
 
   techStack: [
@@ -29,7 +29,8 @@ const mohit = {
     "Redux Toolkit",
     "GraphQL",
     "REST APIs",
-    "Firebase"
+    "Firebase",
+    "Third Party sdk integrations",
   ],
 
   currentlyBuilding: "Scalable Mobile Apps",
